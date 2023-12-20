@@ -1,5 +1,7 @@
-<h1 align="center">Heeey 👋, Sou a Duda</h1>
-<h3 align="center">Business Analyst | Payments | Gestão</h3>
+<h1 align="left">Heeey 👋, Sou a Duda</h1>
+<h3 align="left">Business Analyst | Payments | Gestão</h3>
+
+
 
 - 💬 Pergunte-me sobre: **SQL e estatística**
 
